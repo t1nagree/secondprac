@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\secondprac\secondprac\bin\Debug\net6.0\secondprac.exe
+C:\Users\user\source\repos\secondprac\secondprac\bin\Debug\net6.0\secondprac.deps.json
+C:\Users\user\source\repos\secondprac\secondprac\bin\Debug\net6.0\secondprac.runtimeconfig.json
+C:\Users\user\source\repos\secondprac\secondprac\bin\Debug\net6.0\secondprac.dll
+C:\Users\user\source\repos\secondprac\secondprac\bin\Debug\net6.0\secondprac.pdb
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.AssemblyInfo.cs
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.dll
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\refint\secondprac.dll
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.pdb
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\secondprac.genruntimeconfig.cache
+C:\Users\user\source\repos\secondprac\secondprac\obj\Debug\net6.0\ref\secondprac.dll
